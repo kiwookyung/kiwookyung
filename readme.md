@@ -7,5 +7,5 @@
 - 저는 ```파이썬``` 1반 기우경 입니다
 -  **즐겁게** 공부해봐요!
 
-## contact me😎
+## contact me😛
 ![이미지](https://velog.velcdn.com/images/hyejee0504/post/c057ac83-effb-4148-8edd-1eb62772b90a/image.png)
