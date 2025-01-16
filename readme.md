@@ -4,7 +4,7 @@
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 안녕하세요🧸
-- 저는 ```파이썬``` 1반 기우경 입니다
+- 저는 ```파이썬``` 2반 기우경 입니다
 -  **즐겁게** 공부해봐요!
 
 ## contact me😛
