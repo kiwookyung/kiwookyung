@@ -17,9 +17,17 @@
 <br>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white">
+<img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white">
+
+<br>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black">
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=React&logoColor=black">
 
 </div>
 
@@ -39,20 +47,24 @@
 
 <br><br>
 
-<a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkiwookyung%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
+<a href="https://github.com/kiwookyung">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=kiwookyung&color=blueviolet&style=for-the-badge">
 
 </div>
 
-<br>
-
-<div align="center">
-
 ## 🏅 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=kiwookyung&show_icons=true&theme=github_dark&hide_border=true" height="180">
+<img
+  src="https://github-readme-stats.vercel.app/api?username=kiwookyung&show_icons=true&theme=tokyonight&hide_border=true"
+  height="180"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiwookyung&layout=compact&theme=github_dark&hide_border=true" height="180">
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiwookyung&layout=compact&theme=tokyonight&hide_border=true"
+  height="180"
+/>
 
 </div>
